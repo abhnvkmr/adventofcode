@@ -1,0 +1,8 @@
+.vscode
+.idea
+.sublime-*
+
+.py[cod]
+
+.directory
+.DS*
